@@ -22,3 +22,5 @@ You can make complete changes to `index.html`, `style.css` or even `script.js`, 
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+
+_Looks bad, right?_
