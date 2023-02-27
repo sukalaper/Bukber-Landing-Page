@@ -130,7 +130,7 @@ html {
 .header {
   position: relative;
   width: 100%;
-  height: 400%;
+  height: 500px;
   overflow: hidden;
 }
 .header .header-content {
@@ -394,4 +394,3 @@ html {
   .service .service-content .card-service .card-service-body {
     width: 100%;
   }
-
